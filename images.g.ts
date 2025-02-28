@@ -26,6 +26,25 @@ namespace myImages {
 ............................e999
 .............................999
 `;
+            case "image2":
+            case "Grass":return img`
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 e 7 7 7 7 7 7 7 e 7 7 7 e 
+7 7 7 e e 7 e 7 7 e 7 e 7 e 7 e 
+e e 7 e e e e 7 7 e e e e e 7 e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
         }
         return null;
     })
