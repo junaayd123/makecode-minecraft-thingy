@@ -2,7 +2,8 @@
     "name": "minecraft 3d game makecode",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.18"
     },
     "files": [
         "main.blocks",
@@ -16,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.59",
+        "target": "1.12.61",
         "targetId": "arcade"
     },
     "supportedTargets": [
