@@ -64,6 +64,25 @@ e e e e e e e e e e e e e e e e
 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
 `;
+            case "image4":
+            case "oaklog":return img`
+3 c 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 c 3 3 3 a 3 3 3 3 3 3 3 3 3 3 
+3 3 c 3 3 3 a c 3 3 3 a 3 3 a 3 
+c 3 c 3 3 3 a c 3 3 3 a c 3 a 3 
+c 3 c 3 3 3 3 c c 3 c a c 3 3 a 
+c 3 3 3 c 3 3 3 c 3 c 3 a c 3 3 
+3 3 3 3 c 3 3 c c 3 c 3 3 c 3 3 
+3 3 3 3 c 3 a c c 3 c 3 3 c 3 a 
+3 3 c 3 c 3 a 3 3 3 c 3 3 3 3 a 
+3 3 c 3 c 3 a 3 3 3 3 3 3 3 3 a 
+3 3 3 3 c 3 a 3 a 3 3 3 a a 3 3 
+3 3 3 3 3 3 3 3 a a 3 c a 3 3 3 
+a 3 3 3 3 3 3 a a a 3 3 c 3 3 a 
+a 3 a 3 3 3 3 a 3 a 3 3 c 3 3 a 
+a 3 a 3 3 3 a a 3 a 3 c 3 3 3 a 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+`;
         }
         return null;
     })
